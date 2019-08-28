@@ -1,3 +1,8 @@
+Hi! I'm Marianne. This is my first try at GitHub to get a hand on it.
+
+Hereafter is the automatic readme file created for Hello-world by GitHub when I created my account. I still need to read it!
+
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
